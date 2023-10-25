@@ -2,6 +2,8 @@
 
 Petites annonces gratuites en France. Publier une annonce gratuitement, passer une annonce gratuite, déposer une annonce gratuit ou envoyer une petite annonce en France. Petite annonce gratuite pour les particuliers et professionnels.
 
-# Prerequis
+## Comment lancer le projet ?
 
-npm install puis npm start
+### Avec npm
+
+Faites la commande `npm install` pour installer les dépendances puis `npm start` pour lancer le projet.

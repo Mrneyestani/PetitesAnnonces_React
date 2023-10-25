@@ -4,9 +4,9 @@ function Footer() {
   return (
     <div className="footer">
       <div>
-        <img src="logo-black.png" alt="logo" width="100" />
+        <img src="PetitesAnnonces.png" alt="logo" />
       </div>
-      <div>© 2020 Kasa. All rights reserved</div>
+      <div>© 2023 PetitesAnnonces. All rights reserved</div>
     </div>
   );
 }
